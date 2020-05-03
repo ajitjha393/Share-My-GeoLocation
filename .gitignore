@@ -1,4 +1,6 @@
 node_modules
 .vscode
 .prettierrc
+Mapbox-token.js
 dist/assets/scripts
+.firebaserc
