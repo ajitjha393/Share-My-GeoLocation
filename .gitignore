@@ -4,3 +4,4 @@ node_modules
 Mapbox-token.js
 dist/assets/scripts
 .firebaserc
+.firebase
